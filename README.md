@@ -27,7 +27,7 @@ This project performs an end-to-end analysis of Netflix's content catalog using 
 ├── 2_content_type_analysis.ipynb
 ├── 3_country_wise_analysis.ipynb
 ├── 4_trend_analysis.ipynb
-├── 5_rating_genre_analysis.ipynb
+├── 5_Content_rating_genre_analysis.ipynb
 ├── 6_business_insights_report.ipynb
 ├── Netflix_Business_Report.docx
 ├── netflix_cleaned.csv
