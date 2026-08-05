@@ -29,7 +29,6 @@ This project performs an end-to-end analysis of Netflix's content catalog using 
 ├── 4_trend_analysis.ipynb
 ├── 5_Content_rating_genre_analysis.ipynb
 ├── 6_business_insights_report.ipynb
-├── Netflix_Business_Report.docx
 ├── netflix_cleaned.csv
 └── README.md
 
@@ -62,6 +61,9 @@ This project performs an end-to-end analysis of Netflix's content catalog using 
 **6. Business Insights Report**
 - Combined all findings into a comprehensive dashboard
 - Documented key business recommendations in a Word report
+
+  # 📈 Dashboard Preview
+![Netflix Dashboard](netflix_dashboard.png)
 
 ## 📈 Key Findings
 - Movies make up the majority of Netflix's content catalog compared to TV Shows
